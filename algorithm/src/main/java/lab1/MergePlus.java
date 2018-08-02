@@ -1,10 +1,8 @@
 package lab1;
 
-
 import java.util.Random;
 
-
-public class MergeSort {
+public class MergePlus {
     final int ARRAY_SIZE = 33;
     final int MAX_VAL = 1000;
     int[] theArray;
@@ -134,4 +132,3 @@ public class MergeSort {
     }
 
 }
-

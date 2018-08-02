@@ -19,6 +19,6 @@ public class Duplicate {
     }
 
     public static void main(String... args) {
-        System.out.println(removeDups(new int[]{1, 1, 3, 4, 1, 5}));
+        System.out.println(4%3);
     }
 }
